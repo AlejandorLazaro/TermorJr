@@ -1,0 +1,52 @@
+Tremor Jr. Ideas:
+
+256 tiles deep
+Pseudo levels**
+Recolor/slightly changed creatures
+Multi-tile monsters
+
+Tremors/Stress:
+• Dirt particles faling to signify stress
+• Optional upgrade to show a "heatmap" of the stress of the tiles
+• Shaking of screen
+• Stress may be calculated upon activation of tremors/supports.
+• Tremors should gradually* increase in magnitude
+• 
+• 
+• 
+• 
+
+Combat:
+• Drill is the weapon
+• Blinking injury frames
+
+Colonists:
+• Jobs:
+	• Digging (If you can choose the paths where they dig)
+	• Support Tunnels
+	• Combatants
+	• Medic
+	• Cook (If we have a "morale" system)
+
+Resources:
+• Currency
+• Resource Collection (Automated)
+
+Objectives to Play:
+• Learn to dig
+• Learn to support
+• Experience tremors
+• Encounter enemies
+• Learn to give jobs
+
+Story:
+TUTORIAL
+• Start out with an already built colony
+• Learn by "expanding" the lower level of the colony
+• "First" tremor appears after unearthing some artifact
+• The colony begins to collapse
+• Hurried escape with another individual who continues the tutorial
+• Black out
+START
+• Your job is now to make another colony
+• Tremors are now common
